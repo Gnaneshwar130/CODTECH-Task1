@@ -11,8 +11,16 @@
 **Mentor:** NEELA SANTHOSH
 
 
+
 ## Overview of the project 
 ## Project: E- COMMERCE WEBSITE IN WEB DEVELOPMENT
+**OUTPUT:** 
+![Screenshot 2024-11-14 142159](https://github.com/user-attachments/assets/b9a6d25f-acf3-4d7a-8636-7faf98ee88ba)
+![Screenshot 2024-11-14 142223](https://github.com/user-attachments/assets/07f5b4c7-4cd3-4ab7-81e1-f7c9791c7593)
+![Screenshot 2024-11-14 142259](https://github.com/user-attachments/assets/33911d4f-4ed3-4581-9f28-bd3da33e9bd2)
+![Screenshot 2024-11-14 142326](https://github.com/user-attachments/assets/a6e98a98-c847-4c8f-867c-1cf50b9deb47)
+
+
 ## Objective
 This project is about an e-commerce website where a user can do shopping with a seamless experience. A user can choose a product as per his choice He can filter the products by size as well as by the color he wants. You can customize this project’s animation as well as logic as per requirement. It’s one of the major projects you can use for your personal use as well as to present in your college.
 
